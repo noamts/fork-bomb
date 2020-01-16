@@ -1,5 +1,5 @@
 # Fork Bomb
-fork bombs in lots of different languages. Please fork (ba dum crash) and contribute.
+fork bombs in different languages. Please fork and contribute.
 
 Current languages:
 
